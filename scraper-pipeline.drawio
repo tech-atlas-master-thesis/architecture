@@ -1,11 +1,37 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="zCZi9wtf0-Z5yWJO8eat">
-    <mxGraphModel dx="2566" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-4" edge="1" parent="1" source="rVtW-2pzO7Y1wJFoqIu0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rVtW-2pzO7Y1wJFoqIu0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-5" edge="1" parent="1" source="rVtW-2pzO7Y1wJFoqIu0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rVtW-2pzO7Y1wJFoqIu0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Get Technology Configuration" vertex="1">
+          <mxGeometry height="60" width="240" x="-120" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-9" edge="1" parent="1" source="rVtW-2pzO7Y1wJFoqIu0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=3;dashed=1;" target="rVtW-2pzO7Y1wJFoqIu0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gather FFG Data" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-8" edge="1" parent="1" source="rVtW-2pzO7Y1wJFoqIu0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;endArrow=none;endFill=0;" target="rVtW-2pzO7Y1wJFoqIu0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gather FWF Data" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-6" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="FFG Projektdatenbank" vertex="1">
+          <mxGeometry height="80" width="150" x="-350" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="rVtW-2pzO7Y1wJFoqIu0-7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="FFG Forschungsradar" vertex="1">
+          <mxGeometry height="80" width="150" x="200" y="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
 </mxfile>
-
