@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="zCZi9wtf0-Z5yWJO8eat">
-    <mxGraphModel dx="3419" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2538" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RMsCnQJKkgTWVJNUTRts-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="430" width="160" x="201" y="240" as="geometry" />
+          <mxGeometry height="530" width="160" x="201" y="240" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-17" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
@@ -43,9 +43,6 @@
             <mxPoint x="280.85714285714266" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMsCnQJKkgTWVJNUTRts-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Save to Database" vertex="1">
-          <mxGeometry height="60" width="120" x="221" y="590" as="geometry" />
-        </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Projects" vertex="1">
           <mxGeometry height="30" width="60" x="211" y="250" as="geometry" />
         </mxCell>
@@ -67,7 +64,7 @@
           <mxGeometry height="60" width="120" x="211" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="430" width="160" x="400" y="240" as="geometry" />
+          <mxGeometry height="450" width="160" x="400" y="240" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-29" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RMsCnQJKkgTWVJNUTRts-32" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -111,10 +108,13 @@
         <mxCell id="RMsCnQJKkgTWVJNUTRts-34" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Enrich Organizations Data&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="420" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="RMsCnQJKkgTWVJNUTRts-53" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+        <mxCell id="RMsCnQJKkgTWVJNUTRts-53" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RMsCnQJKkgTWVJNUTRts-69" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RMsCnQJKkgTWVJNUTRts-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-35" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Save to Database" vertex="1">
           <mxGeometry height="60" width="120" x="420" y="590" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry height="30" width="60" x="410" y="250" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="430" width="160" y="240" as="geometry" />
+          <mxGeometry height="450" width="160" y="240" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-38" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RMsCnQJKkgTWVJNUTRts-41" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -155,6 +155,14 @@
           <mxGeometry height="60" width="120" x="20" y="490" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-51" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RMsCnQJKkgTWVJNUTRts-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="800" />
+              <mxPoint x="281" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMsCnQJKkgTWVJNUTRts-70" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RMsCnQJKkgTWVJNUTRts-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Save to Database" vertex="1">
@@ -167,10 +175,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate Preprocessed Queries" vertex="1">
-          <mxGeometry height="60" width="120" x="221" y="720" as="geometry" />
+          <mxGeometry height="60" width="120" x="221" y="830" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-54" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Publish Dataset" vertex="1">
-          <mxGeometry height="60" width="120" x="221" y="810" as="geometry" />
+          <mxGeometry height="60" width="120" x="221" y="920" as="geometry" />
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-60" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Firmenbuchdaten&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 102, 255));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 102, 255));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 102, 255));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 102, 255));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255));&quot;&gt;&lt;u&gt;https://www.northdata.com/&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 102, 255));&quot;&gt;&lt;u&gt;https://justizonline.gv.at/jop/web/&lt;br&gt;firmenbuchabfrage/suchergebnis&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="250" x="610" y="420" as="geometry" />
@@ -180,6 +188,24 @@
         </mxCell>
         <mxCell id="RMsCnQJKkgTWVJNUTRts-64" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Transparenzportal&lt;br&gt;Förderungsdaten" vertex="1">
           <mxGeometry height="80" width="170" x="-220" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="RMsCnQJKkgTWVJNUTRts-66" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="800" />
+              <mxPoint x="281" y="800" />
+            </Array>
+            <mxPoint x="480" y="650" as="sourcePoint" />
+            <mxPoint x="280" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMsCnQJKkgTWVJNUTRts-71" edge="1" parent="1" source="RMsCnQJKkgTWVJNUTRts-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.8571428571429" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMsCnQJKkgTWVJNUTRts-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Save to Database" vertex="1">
+          <mxGeometry height="60" width="120" x="221" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
